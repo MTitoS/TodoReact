@@ -16,7 +16,7 @@
 
 ## :house: About the project
 
-The project is a simulator to help users simulate how and when they will achieve their goal of buying their own home.
+This project is a To-do list where you can organize your ideas and stuff you need to do!
 <br>
 
 ## :computer: Technologies
@@ -40,7 +40,7 @@ The project is a simulator to help users simulate how and when they will achieve
 
 Run the following command in order to start the application in a development environment:
 
-```$ npm run dev```
+```$ npm start```
 
 <br>
 
