@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  Let's plan your saving goal.
+  Everything you need to get organized.
 </h3>
 
 <br>
