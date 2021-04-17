@@ -35,13 +35,6 @@ The project is a simulator to help users simulate how and when they will achieve
 **You need to install [Node.js](https://nodejs.org/en/download/) first, then in order to clone the project via HTTPS, run this command:**
 
 ```$ git clone https://github.com/MTitoS/TodoReact.git```
-
-<br>
-
-**Install dependencies**
-
-```$ npm install```
-
 <br>
 # :runner: Getting Started
 
